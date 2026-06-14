@@ -1,0 +1,5 @@
+# Local secrets — never commit
+config.py
+
+# Python
+__pycache__/
